@@ -21,7 +21,7 @@ export function WorkStation() {
             onClick={() => handleTabClick(1)}
             className={activeTab === 1 ? "active" : ""}
           >
-            Danney
+            Gorakshnath
             <a target="_blank" href="https://danneytrieu.design/">
               <MdOutlineOpenInNew />
             </a>
